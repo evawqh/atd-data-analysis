@@ -1,0 +1,99 @@
+count,ave_length,tech,aor
+353,475.2,GPS,Atlanta
+4031,415.28,SmartLINK,Atlanta
+471,1677.76,TR,Atlanta
+1,34.0,No Tech,Atlanta
+124,332.8,GPS,Baltimore
+2954,565.77,SmartLINK,Baltimore
+243,1489.33,TR,Baltimore
+2,35.5,No Tech,Baltimore
+252,182.89,GPS,Boston
+8430,255.42,SmartLINK,Boston
+13,933.31,TR,Boston
+40,58.93,No Tech,Boston
+4,624.0,GPS,Buffalo
+247,194.04,SmartLINK,Buffalo
+462,1152.15,TR,Buffalo
+264,514.19,GPS,Chicago
+11508,477.56,SmartLINK,Chicago
+1803,1893.12,TR,Chicago
+5,304.4,No Tech,Chicago
+92,337.78,GPS,Dallas
+2306,485.22,SmartLINK,Dallas
+21,1452.05,TR,Dallas
+3,47.0,No Tech,Dallas
+19,407.16,GPS,Denver
+3133,404.09,SmartLINK,Denver
+244,1958.98,TR,Denver
+3,386.0,No Tech,Denver
+65,714.15,GPS,Detroit
+7933,759.15,SmartLINK,Detroit
+1019,2122.64,TR,Detroit
+5,293.4,No Tech,Detroit
+273,319.03,GPS,El Paso
+12934,137.18,SmartLINK,El Paso
+541,1140.1,TR,El Paso
+5891,15.86,No Tech,El Paso
+1097,274.63,GPS,Harlingen
+45001,102.84,SmartLINK,Harlingen
+145,247.1,TR,Harlingen
+12133,23.8,No Tech,Harlingen
+481,384.49,GPS,Houston
+3057,238.25,SmartLINK,Houston
+17,1123.24,TR,Houston
+4,141.5,No Tech,Houston
+766,430.05,GPS,Los Angeles
+12325,301.16,SmartLINK,Los Angeles
+3490,1464.14,TR,Los Angeles
+437,66.42,No Tech,Los Angeles
+995,333.56,GPS,Miami
+13504,340.74,SmartLINK,Miami
+100,708.04,TR,Miami
+7,121.0,No Tech,Miami
+129,347.94,GPS,New Orleans
+3889,526.99,SmartLINK,New Orleans
+157,1407.17,TR,New Orleans
+23,48.0,No Tech,New Orleans
+383,447.1,GPS,New York
+10276,309.99,SmartLINK,New York
+323,1725.23,TR,New York
+7,414.14,No Tech,New York
+240,475.95,GPS,Newark
+13838,579.04,SmartLINK,Newark
+1717,2105.73,TR,Newark
+18,828.56,No Tech,Newark
+32,300.0,GPS,Philadelphia
+7336,364.01,SmartLINK,Philadelphia
+101,1366.6,TR,Philadelphia
+3,1317.33,No Tech,Philadelphia
+1542,213.31,GPS,Phoenix
+18767,109.0,SmartLINK,Phoenix
+3310,41.8,No Tech,Phoenix
+93,268.27,GPS,Salt Lake City
+8492,443.63,SmartLINK,Salt Lake City
+348,1271.91,TR,Salt Lake City
+21,84.29,No Tech,Salt Lake City
+477,292.22,GPS,San Antonio
+32849,126.7,SmartLINK,San Antonio
+2274,366.1,TR,San Antonio
+12092,49.01,No Tech,San Antonio
+243,826.44,GPS,San Diego
+10142,188.3,SmartLINK,San Diego
+280,1794.47,TR,San Diego
+2273,28.35,No Tech,San Diego
+824,552.88,GPS,San Francisco
+12053,556.88,SmartLINK,San Francisco
+4533,1860.96,TR,San Francisco
+38,1257.42,No Tech,San Francisco
+151,302.04,GPS,Seattle
+5297,580.99,SmartLINK,Seattle
+661,1914.12,TR,Seattle
+24,795.46,No Tech,Seattle
+116,666.22,GPS,St Paul
+2109,816.87,SmartLINK,St Paul
+540,2157.77,TR,St Paul
+31,1705.42,No Tech,St Paul
+309,564.33,GPS,Washington DC
+5043,468.67,SmartLINK,Washington DC
+41,1346.51,TR,Washington DC
+8,843.88,No Tech,Washington DC
