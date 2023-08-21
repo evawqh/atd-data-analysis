@@ -3,4 +3,13 @@ This data analysis is part of my project looking into U.S. Immigration and Custo
 <br><br>
 In the ISAP (Intensive Supervision Appearance Program), immigrants awaiting their immigration hearings and those generally in removal proceedings are enrolled into different types of monitoring technologies. This is for ICE to keep track that enrollees are following the requirements and procedures posed by ICE.
 <br><br>
-ICE does this through a variety of technologies. As of Aug. 2023, the technologies used include GPS ankle monitors, a phone app called BI SmartLINK, and VoiceID through phone calls. 
+ICE does this through a variety of technologies. As of Aug. 2023, the technologies used include GPS ankle monitors, a phone app called BI SmartLINK, and VoiceID through phone calls. Most recently, VeriWatch, a wristband version of the GPS ankle monitor, is put into a pilot program in Colorado.
+<br><br>
+The catch is, all of this is not done by ICE directly. Instead, ICE contracts a for-profit  company called BI Incorporated for:
+<br>
+- The production of all of these technologies;
+- <br>
+- The direct monitoring and communication of all migrants enrolled in the program and using these technologies;
+- <br>
+- The maintenance of a database which stores all of the enrollees' information.
+<br><br>
