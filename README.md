@@ -8,8 +8,6 @@ ICE does this through a variety of technologies. As of Aug. 2023, the technologi
 The catch is, all of this is not done by ICE directly. Instead, ICE contracts a for-profit  company called BI Incorporated for:
 <br>
 - The production of all of these technologies;
-<br>
 - The direct monitoring and communication of all migrants enrolled in the program and using these technologies;
-<br>
 - The maintenance of a database which stores all of the enrollees' information.
 <br><br>
