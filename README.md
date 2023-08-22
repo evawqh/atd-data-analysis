@@ -13,7 +13,7 @@ The catch is, all of this is not done by ICE directly. Instead, ICE contracts a 
 
 The ATD program started in 2004, but grew significantly in recent years, especially with the phone app SmartLINK under the Biden administration. As a result, BI has become a big beneficiary of ICE's ATD program. 
 
-In the folder [atd-finances], I analyze the amount ICE pays BI each fiscal year after downloading the contract spending data from [usaspending.gov](usaspending.gov). I use the higher-level summary data instead of transaction data because the summary data shows which specific contract each row is for. 
+In the folder [atd-finances](https://github.com/evawqh/atd-data-analysis/tree/main/atd-finances), I analyze the amount ICE pays BI each fiscal year after downloading the contract spending data from [usaspending.gov](usaspending.gov). I use the higher-level summary data instead of transaction data because the summary data shows which specific contract each row is for. 
 
 To put contract spending to BI in correlation with tasks ICE required of BI, I made the methodological choice of dividing the contract amount by the number of fiscal years it spans. For example, if ICE contracted BI for the deployment of program A for x million dollars, to pay for BI's service from FY 2011-2015, then I would divide x by 5 years, even if the entire payment was made in 2011. 
 
