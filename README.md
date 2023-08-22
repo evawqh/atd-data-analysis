@@ -17,8 +17,13 @@ In the folder [atd-finances](https://github.com/evawqh/atd-data-analysis/tree/ma
 
 To put contract spending to BI in correlation with tasks ICE required of BI, I made the methodological choice of dividing the contract amount by the number of fiscal years it spans. For example, if ICE contracted BI for the deployment of program A for x million dollars, to pay for BI's service from FY 2011-2015, then I would divide x by 5 years, even if the entire payment was made in 2011. 
 
+<img width="689" alt="spending" src="https://github.com/evawqh/atd-data-analysis/assets/116761533/0c83da1f-924b-40ac-90c0-85a9308d64e2">
+
 In the folder [atd-participants](https://github.com/evawqh/atd-data-analysis/tree/main/atd-participants), I downloaded detention/alternatives to detention statistics from ICE's official website. The statistics is only made available beginning FY 2019, so the analysis is about the ATD participants from FY 2019-2023. 
 
 To show various trends, I analyzed total number of participants, as well as the total number of participants by the type of technology they were using. The result showed a stark increase of ATD participants in FY 2022, corresponding to a drastic increase in spending in FY 2022 as well.
+
+<img width="816" alt="participants" src="https://github.com/evawqh/atd-data-analysis/assets/116761533/de43c1e4-3129-481b-8872-e802ca3d5ce3">
+
 
 
