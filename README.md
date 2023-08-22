@@ -17,4 +17,6 @@ In the folder [atd-finances], I analyze the amount ICE pays BI each fiscal year 
 
 To put contract spending to BI in correlation with tasks ICE required of BI, I made the methodological choice of dividing the contract amount by the number of fiscal years it spans. For example, if ICE contracted BI for the deployment of program A for x million dollars, to pay for BI's service from FY 2011-2015, then I would divide x by 5 years, even if the entire payment was made in 2011. 
 
+In the folder [atd-participants], I 
+
 
